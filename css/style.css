@@ -1,0 +1,51 @@
+*{
+	margin: 0; 
+	padding: 0;
+}
+html{
+	background-color:black;
+}
+body{
+	width: 1000px;
+	height: 800px;
+	margin: auto;
+	background-color: white;
+}
+section#box{
+	margin-top: 10px;
+	background: white;
+	width: 200px;
+	height: 50px;
+	float: left;
+	font-family: Century Gothic;
+	font-size: 20px;
+	border: #000;
+}
+#box a{
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+	margin:0px 0px 0px 22px;
+}
+.mostrarVentas{
+
+	border-left: 20px;
+	width: 975px;
+	height: 630px;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+}
+.iframe{
+	width: 650px;
+	height: 620px;
+	border-style: none;
+}
+button{
+	width: 80px;
+	height: 20px;
+	font-family: Century Gothic;
+	background: lightblue;
+	border: none;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/styleventas.css">
+	<title></title>
+</head>
+<body>
+	<nav>
+		<section id="cabezerablanca"></section>
+	</nav>
+	<header>
+		<section id="primero">
+			<center>
+				<label>PRODUCTO:</label>
+				<br>
+				<select id="bolsap">
+					<option>Seleccione producto</option>
+					<option value="Arroz">Arroz</option>
+				    <option value="Camote">Camote</option>
+				    <option value="Papa">Papa</option>	
+	            </select>
+			</center>
+		</section>
+		<section id="segundo">
+			<center>
+				<label>PRECIO:</label>
+				<input id="precio" type="" name="">
+			</center>
+		</section>
+		<section id="tercero">
+			<center>
+				<label>CANTIDAD:</label>
+				<input id="cantidad" type="" name="">
+			</center>
+		</section>
+		<section id="blanco">
+			<center>
+				<br>
+				<button onclick="agregar()">Add</button>
+			</center>
+		</section>
+	</header>
+	<nav>
+		<table id="data">
+			<th>#</th>
+	    	<th>Producto</th>
+	    	<th>Precio</th>
+	    	<th>Cantidad</th>
+	    	<th>Subtotal</th>
+	    	<th colspan="2">Acciones</th>
+	    </table>
+	</nav>
+</body>
+<script type="text/javascript" src="js/script.js"></script>
+</html>

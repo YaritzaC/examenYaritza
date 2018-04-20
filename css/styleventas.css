@@ -1,0 +1,76 @@
+*{
+	margin: 0; 
+	padding: 0;
+}
+body{
+	width: 650px;
+	height: 600px;
+	margin: auto;
+	background-color: white;
+}
+#cabezerablanca{
+	background: white;
+	width: 650px;
+	height: 80px;
+	float: left;
+}
+#primero{
+	width: 200px;
+	height: 100px;
+	background: white;
+	float: left;
+}
+#segundo{
+	width: 150px;
+	height: 100px;
+	background: white;
+	float: left;
+}
+#tercero{
+	width: 150px;
+	height: 100px;
+	background: white;
+	float: left;
+}
+#blanco{
+	width: 150px;
+	height: 100px;
+	background: white;
+    float: left;
+}
+label{
+	font-family: Century Gothic;
+}
+#bolsap{
+	margin-top: 5px;
+	height: 20px;
+	font-family: Century Gothic;
+}
+input{
+	margin-top: 5px;
+	width: 80px;
+	height: 20px;
+	font-family: Century Gothic;
+}
+button{
+	margin-top: 10px;
+	width: 80px;
+	height: 20px;
+	font-family: Century Gothic;
+}
+table{
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: 3%;
+  font-family: Century Gothic;
+}
+th,td{
+  padding:15px;
+  border:none;
+  font-family: Century Gothic;
+  background: lightblue;
+}
+td{
+  color:#000;
+  font-family: Century Gothic;
+}
