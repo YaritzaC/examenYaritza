@@ -53,9 +53,12 @@ input{
 	font-family: Century Gothic;
 }
 button{
-	margin-top: 10px;
-	width: 80px;
-	height: 20px;
+	width: 100px;
+	height: 30px;
+	color: white;
+	background-color: rgb(45, 123, 172);
+	border:none;
+	margin-top: 6px;
 	font-family: Century Gothic;
 }
 table{

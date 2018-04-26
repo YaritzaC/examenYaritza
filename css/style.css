@@ -7,7 +7,7 @@ html{
 }
 body{
 	width: 1000px;
-	height: 800px;
+	height: 880px;
 	margin: auto;
 	background-color: white;
 }
@@ -28,7 +28,6 @@ section#box{
 	margin:0px 0px 0px 22px;
 }
 .mostrarVentas{
-
 	border-left: 20px;
 	width: 975px;
 	height: 630px;
@@ -39,7 +38,7 @@ section#box{
 }
 .iframe{
 	width: 650px;
-	height: 620px;
+	height: 800px;
 	border-style: none;
 }
 button{
